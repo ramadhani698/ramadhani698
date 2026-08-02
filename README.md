@@ -56,7 +56,7 @@ Saya **Ilham Ramadhani (Dhanskie)**, mahasiswa **S1 Teknik Informatika** semeste
 ### 📊 GitHub Activity
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramadhani698&theme=radical&hide_border=true&background=0D1117&ring=9333EA&fire=2563EB&currStreakLabel=9333EA" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramadhani698&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9333EA&text_color=c9d1d9" width="35%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ramadhani698&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9333EA&text_color=c9d1d9" width="35%" />
 
 </div>
 
