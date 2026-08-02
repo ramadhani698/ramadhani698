@@ -27,7 +27,7 @@ Saya **Ilham Ramadhani (Dhanskie)**, mahasiswa **S1 Teknik Informatika** semeste
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ramadhani698&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9333EA&icon_color=2563EB&text_color=c9d1d9" width="100%" />
+<img src="https://github-stats-extended.vercel.app/api?username=ramadhani698&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9333EA&icon_color=2563EB&text_color=c9d1d9" width="100%" />
 
 </td>
 </tr>
