@@ -66,7 +66,7 @@ Saya **Ilham Ramadhani (Dhanskie)**, mahasiswa **S1 Teknik Informatika** semeste
 
 ### 🏆 Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=ramadhani698&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=ramadhani698&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" />
 
 </div>
 
