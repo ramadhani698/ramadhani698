@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:9333EA&height=220&section=header&text=Halo,%20Saya%20Ilham%20Ramadhani&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=aka%20Dhanskie%20-%20Aspiring%20Software%20Engineer&descAlignY=55&descSize=18" />
 
 <a href="https://github.com/ramadhani698">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Fresh-Graduate+Informatika;Laravel+%26+PHP+Backend+Enthusiast;Fullstack+Developer;Open+to+Junior+IT+Programmer+Roles;Based+in+Tangerang%2C+Indonesia&font=Fira+Code&center=true&width=520&height=45&color=9333EA&vCenter=true&size=20&pause=1800" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Fresh-Graduate+Informatika;Laravel+%26+PHP+Backend+Enthusiast;Fullstack+Developer;Open+to+Junior+IT+Programmer+Roles;Based+in+Tangerang%2C+Indonesia&font=Fira+Code&center=true&width=600&height=50&color=9333EA&vCenter=true&size=24&pause=1800&weight=700" />
 </a>
 
 </div>
