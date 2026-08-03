@@ -73,14 +73,14 @@ Saya **Ilham Ramadhani (Dhanskie)**, mahasiswa **S1 Teknik Informatika** semeste
 <td width="50%" valign="top">
 
 **🎓 Sistem PPDB Online**
-Aplikasi Laravel untuk Penerimaan Peserta Didik Baru (Tugas Akhir) — pendaftaran, verifikasi berkas, hingga tes online otomatis.
+Website company profile sekaligus sistem Penerimaan Peserta Didik Baru (PPDB) online — mencakup profil sekolah, jurusan, berita, hingga pendaftaran siswa baru secara digital (Tugas Akhir).
 `Laravel` `MySQL` `Bootstrap`
 
 </td>
 <td width="50%" valign="top">
 
 **🕌 Website Pesantren**
-Website profil & manajemen konten untuk Daarul Qur'an Al-Jannah — galeri, alumni, akademik, dan berita.
+Platform company profile untuk Daarul Qur'an Al-Jannah — menghadirkan identitas, informasi akademik, dan aktivitas kelembagaan pesantren dalam satu sistem yang terintegrasi.
 `Laravel` `AdminLTE` `Bootstrap`
 
 </td>
