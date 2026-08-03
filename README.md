@@ -95,7 +95,7 @@ Platform company profile untuk Daarul Qur'an Al-Jannah — menghadirkan identita
 
 ### 🤝 Let's Connect
 
-<a href="https://www.instagram.com/" target="_blank">
+<a href="https://www.instagram.com/_ramadhaniie/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://github.com/ramadhani698" target="_blank">
