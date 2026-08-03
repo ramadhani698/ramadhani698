@@ -21,8 +21,7 @@ Saya **Ilham Ramadhani (Dhanskie)**, fresh graduate **S1 Teknik Informatika** di
 Selain itu, saya juga pernah membangun **company profile** untuk Pesantren Daarul Qur'an Al-Jannah lengkap dengan **modul donasi online**.
 
 - 🎓 **Fresh Graduate** Informatika, siap terjun ke dunia kerja
-- 💻 Fokus pada **Laravel, arsitektur backend, dan clean code**
-- 🌱 Sedang belajar **React & Next.js** untuk memperluas kemampuan frontend
+- 💻 Berpengalaman dengan **Laravel** dari beberapa proyek nyata, dan terbuka untuk mempelajari framework baru
 - 💼 Terbuka untuk peluang **Junior IT Programmer**
 - 📍 Berbasis di **Tangerang, Indonesia**
 - ⚡ Fun fact: suka bikin sistem yang rapi dari nol sampai jadi produk yang benar-benar dipakai
@@ -83,7 +82,7 @@ Website company profile sekaligus sistem Penerimaan Peserta Didik Baru (PPDB) on
 <td width="50%" valign="top">
 
 **🕌 Website Pesantren**
-Platform company profile untuk Daarul Qur'an Al-Jannah — menghadirkan identitas, informasi akademik, dan aktivitas kelembagaan pesantren dalam satu sistem yang terintegrasi.
+Platform company profile untuk Daarul Qur'an Al-Jannah — menghadirkan identitas, informasi akademik, aktivitas kelembagaan, hingga modul donasi online dalam satu sistem terintegrasi.
 `Laravel` `AdminLTE` `Bootstrap`
 
 </td>
