@@ -18,7 +18,7 @@
 
 Saya **Ilham Ramadhani (Dhanskie)**, fresh graduate **S1 Teknik Informatika** di **STMIK Antar Bangsa**, yang telah menyelesaikan Tugas Akhir berupa sistem **PPDB berbasis web** menggunakan **Laravel** untuk SMK Muhammadiyah 2 Tangerang.
 
-Selain itu, saya juga pernah membangun **company profile** untuk Pesantren Daarul Qur'an Al-Jannah dan sebuah **web baca Al-Quran digital** (ayat & terjemahan).
+Selain itu, saya juga pernah membangun **company profile** untuk Pesantren Daarul Qur'an Al-Jannah lengkap dengan **modul donasi online**.
 
 - 🎓 **Fresh Graduate** Informatika, siap terjun ke dunia kerja
 - 💻 Fokus pada **Laravel, arsitektur backend, dan clean code**
