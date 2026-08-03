@@ -93,18 +93,6 @@ Platform company profile untuk Daarul Qur'an Al-Jannah — menghadirkan identita
 
 <div align="center">
 
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramadhani698/ramadhani698/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramadhani698/ramadhani698/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/ramadhani698/ramadhani698/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
-<div align="center">
-
 ### 🤝 Let's Connect
 
 <a href="https://www.instagram.com/_ramadhaniie/" target="_blank">
@@ -115,6 +103,18 @@ Platform company profile untuk Daarul Qur'an Al-Jannah — menghadirkan identita
 </a>
 
 <br/><br/>
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramadhani698/ramadhani698/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramadhani698/ramadhani698/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/ramadhani698/ramadhani698/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ramadhani698&color=9333EA&style=for-the-badge&label=PROFILE+VIEWS)
 
