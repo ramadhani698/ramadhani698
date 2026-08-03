@@ -16,7 +16,7 @@
 
 ### 👋 Tentang Saya
 
-Saya **Ilham Ramadhani (Dhanskie)**, mahasiswa **S1 Teknik Informatika** semester akhir di **STMIK Antar Bangsa**, yang telah menyelesaikan Tugas Akhir berupa sistem **PPDB berbasis web** menggunakan **Laravel** untuk SMK Muhammadiyah 2 Tangerang.
+Saya **Ilham Ramadhani (Dhanskie)**, fresh graduate **S1 Teknik Informatika** di **STMIK Antar Bangsa**, yang telah menyelesaikan Tugas Akhir berupa sistem **PPDB berbasis web** menggunakan **Laravel** untuk SMK Muhammadiyah 2 Tangerang.
 
 Selain itu, saya juga pernah membangun **company profile** untuk Pesantren Daarul Qur'an Al-Jannah dan sebuah **web baca Al-Quran digital** (ayat & terjemahan).
 
