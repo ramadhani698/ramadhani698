@@ -66,18 +66,6 @@ Selain itu, saya juga pernah membangun **company profile** untuk Pesantren Daaru
 
 <div align="center">
 
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramadhani698/ramadhani698/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramadhani698/ramadhani698/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/ramadhani698/ramadhani698/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
-<div align="center">
-
 ### 🚀 Proyek Unggulan
 
 </div>
@@ -102,6 +90,18 @@ Platform company profile untuk Daarul Qur'an Al-Jannah — menghadirkan identita
 </table>
 
 <br/>
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramadhani698/ramadhani698/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramadhani698/ramadhani698/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/ramadhani698/ramadhani698/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
 
 <div align="center">
 
